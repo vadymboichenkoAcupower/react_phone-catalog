@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.b5f912a9.css",
-    "main.js": "./static/js/main.3676cc52.js",
+    "main.css": "./static/css/main.8f0413bd.css",
+    "main.js": "./static/js/main.9dde24f5.js",
     "static/media/banner-tablets.png": "./static/media/banner-tablets.a962057c1043a08f7737.png",
     "static/media/Banner.jpg": "./static/media/Banner.8c5f1f1b48f17f86c677.jpg",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Accessories.png": "./static/media/Accessories.ceac5a16c668432a34a0.png",
     "static/media/Phones.png": "./static/media/Phones.eca9371ac30e1f63b6f4.png",
     "static/media/Tablets.png": "./static/media/Tablets.a1aff0fe1c1693fcea55.png",
@@ -20,11 +21,11 @@
     "static/media/arrow-black.svg": "./static/media/arrow-black.136562b2d3673010f21bf359dce592d1.svg",
     "static/media/minus.svg": "./static/media/minus.cce4862297a181fdf80850e5bc2e7399.svg",
     "index.html": "./index.html",
-    "main.b5f912a9.css.map": "./static/css/main.b5f912a9.css.map",
-    "main.3676cc52.js.map": "./static/js/main.3676cc52.js.map"
+    "main.8f0413bd.css.map": "./static/css/main.8f0413bd.css.map",
+    "main.9dde24f5.js.map": "./static/js/main.9dde24f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5f912a9.css",
-    "static/js/main.3676cc52.js"
+    "static/css/main.8f0413bd.css",
+    "static/js/main.9dde24f5.js"
   ]
 }
